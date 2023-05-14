@@ -1,0 +1,17 @@
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.DataAccess.deps.json
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.DataAccess.runtimeconfig.json
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.DataAccess.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.DataAccess.pdb
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.Models.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\bin\Debug\net6.0\TaskAPI.Models.pdb
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.csproj.AssemblyReference.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.AssemblyInfoInputs.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.AssemblyInfo.cs
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.csproj.CoreCompileInputs.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.csproj.CopyComplete
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\refint\TaskAPI.DataAccess.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.pdb
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\TaskAPI.DataAccess.genruntimeconfig.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.DataAccess\obj\Debug\net6.0\ref\TaskAPI.DataAccess.dll

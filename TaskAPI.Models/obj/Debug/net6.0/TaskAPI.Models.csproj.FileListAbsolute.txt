@@ -1,0 +1,12 @@
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\bin\Debug\net6.0\TaskAPI.Models.deps.json
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\bin\Debug\net6.0\TaskAPI.Models.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\bin\Debug\net6.0\TaskAPI.Models.pdb
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.csproj.AssemblyReference.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.AssemblyInfoInputs.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.AssemblyInfo.cs
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.csproj.CoreCompileInputs.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\obj\Debug\net6.0\refint\TaskAPI.Models.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\obj\Debug\net6.0\TaskAPI.Models.pdb
+E:\projects\.NET core\WebApplication3\TaskAPI.Models\obj\Debug\net6.0\ref\TaskAPI.Models.dll

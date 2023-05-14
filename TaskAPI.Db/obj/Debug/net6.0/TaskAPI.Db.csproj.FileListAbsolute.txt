@@ -1,0 +1,17 @@
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\bin\Debug\net6.0\TaskAPI.Db.deps.json
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\bin\Debug\net6.0\TaskAPI.Db.runtimeconfig.json
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\bin\Debug\net6.0\TaskAPI.Db.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\bin\Debug\net6.0\TaskAPI.Db.pdb
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\bin\Debug\net6.0\TaskAPI.Models.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\bin\Debug\net6.0\TaskAPI.Models.pdb
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\TaskAPI.Db.csproj.AssemblyReference.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\TaskAPI.Db.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\TaskAPI.Db.AssemblyInfoInputs.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\TaskAPI.Db.AssemblyInfo.cs
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\TaskAPI.Db.csproj.CoreCompileInputs.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\TaskAPI.Db.csproj.CopyComplete
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\TaskAPI.Db.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\refint\TaskAPI.Db.dll
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\TaskAPI.Db.pdb
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\TaskAPI.Db.genruntimeconfig.cache
+E:\projects\.NET core\WebApplication3\TaskAPI.Db\obj\Debug\net6.0\ref\TaskAPI.Db.dll

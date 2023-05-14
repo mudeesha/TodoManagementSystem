@@ -1,0 +1,17 @@
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\bin\Debug\net6.0\TasakAPI.DataAccess1.deps.json
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\bin\Debug\net6.0\TasakAPI.DataAccess1.runtimeconfig.json
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\bin\Debug\net6.0\TasakAPI.DataAccess1.dll
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\bin\Debug\net6.0\TasakAPI.DataAccess1.pdb
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\bin\Debug\net6.0\TaskAPI.Models.dll
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\bin\Debug\net6.0\TaskAPI.Models.pdb
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\TasakAPI.DataAccess1.csproj.AssemblyReference.cache
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\TasakAPI.DataAccess1.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\TasakAPI.DataAccess1.AssemblyInfoInputs.cache
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\TasakAPI.DataAccess1.AssemblyInfo.cs
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\TasakAPI.DataAccess1.csproj.CoreCompileInputs.cache
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\TasakAPI.DataAccess1.csproj.CopyComplete
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\TasakAPI.DataAccess1.dll
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\refint\TasakAPI.DataAccess1.dll
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\TasakAPI.DataAccess1.pdb
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\TasakAPI.DataAccess1.genruntimeconfig.cache
+E:\projects\.NET core\WebApplication3\TasakAPI.DataAccess\obj\Debug\net6.0\ref\TasakAPI.DataAccess1.dll
